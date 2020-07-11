@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "sourceMap": true,
+        // "strictNullChecks": true,
+        "noImplicitAny": false,
+        "module": "commonjs",
+        "target": "es6",
+        "removeComments": true,
+    },
+    "include": [
+        "src/**/*"
+    ],
+}
